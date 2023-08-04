@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imdb/static/css/main.041c61b1.css",
+    "main.js": "/imdb/static/js/main.cf45d580.js",
+    "static/js/787.40950247.chunk.js": "/imdb/static/js/787.40950247.chunk.js",
+    "index.html": "/imdb/index.html",
+    "main.041c61b1.css.map": "/imdb/static/css/main.041c61b1.css.map",
+    "main.cf45d580.js.map": "/imdb/static/js/main.cf45d580.js.map",
+    "787.40950247.chunk.js.map": "/imdb/static/js/787.40950247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041c61b1.css",
+    "static/js/main.cf45d580.js"
+  ]
+}
