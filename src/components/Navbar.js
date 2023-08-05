@@ -6,7 +6,7 @@ const Navbar = () => {
             <div className="flex items-center bg-[#fbfbfb]">
                 <div className="m-4">
                     <img
-                        className="h-20"
+                        className=" h-12"
                         src="https://cdn-icons-png.flaticon.com/512/3658/3658959.png"
                         alt="movie-icon"
                     />
