@@ -1,13 +1,19 @@
-import './App.css';
+import "./App.css";
+import Home from "./components/Home";
+import Navbar from "./components/Navbar";
+import { Routes, Route } from "react-router-dom";
+import Watchlist from "./components/Watchlist";
 
 function App() {
-  return (
-    <div className="App">
-      <h1 className="text-3xl font-bold">
-      Hello world!
-    </h1>
-    </div>
-  );
+    return (
+        <>
+            <Navbar />
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/watchlist" element={<Watchlist />} />
+            </Routes>
+        </>
+    );
 }
 
 export default App;
